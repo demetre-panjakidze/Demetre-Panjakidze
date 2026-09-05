@@ -12,5 +12,5 @@ on test design and automation for a production health app.
 </a>
 
 [![Email](https://img.shields.io/badge/Email-work%40demetre.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work@demetre.dev)
-[![Website](https://img.shields.io/badge/Website-demetre.dev-000000?style=flat&logo=about.me&logoColor=white)](https://demetre.dev)
+[![Website](https://img.shields.io/badge/Website-demetre.dev-000000?style=flat&logo=googlechrome&logoColor=white)](https://demetre.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-demetre--panjakidze-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetre-panjakidze)
