@@ -7,4 +7,6 @@ QA Automation Engineer — mobile test automation for iOS and Android.
 Currently at [@Omedia](https://github.com/Omedia), working with Vitality Group Inc.
 on test design and automation for a production health app
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31opjvmuvzn2urvmv5zfl6moibnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31opjvmuvzn2urvmv5zfl6moibnu&redirect=true)
+
 📫 work@demetre.dev · [demetre.dev](https://demetre.dev) · [in/demetre-panjakidze](https://www.linkedin.com/in/demetre-panjakidze)
